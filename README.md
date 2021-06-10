@@ -25,7 +25,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
   * Paste this code ctrl+v
   
     ```shell
-    ! wget https://raw.githubusercontent.com/fsteamID/RDP-Google-Debian/fsteamID/RDP.sh
+    ! wget https://raw.githubusercontent.com/gaofeicm-life/RDP-Google-Debian/fsteamID/RDP.sh
     ! chmod +x RDP.sh
     ! ./RDP.sh
     ```
@@ -34,8 +34,8 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 # Root access
 
     ```
-    User     : FSID
-    Password : 8426
+    User     : GID
+    Password : toor
     ```
 Please follow/star/fork in my project
 thx
